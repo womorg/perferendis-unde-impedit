@@ -1,18 +1,80 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@womorg/perferendis-unde-impedit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "womhla6s",
   "license": "MIT",
+  "dependencies": {
+    "@womorg/accusantium-commodi-officia": "^1.0.0",
+    "@womorg/accusantium-doloribus-quod": "^1.0.0",
+    "@womorg/adipisci-maxime-facilis": "^1.0.0",
+    "@womorg/animated": "^1.1.7",
+    "@womorg/autem-tempora-rem": "^1.0.0",
+    "@womorg/computing-machine": "^3.1.6",
+    "@womorg/cum-dolorem-corrupti": "^1.0.0",
+    "@womorg/deleniti-velit-voluptas": "^1.0.0",
+    "@womorg/ducimus-officia-voluptatum": "^1.0.0",
+    "@womorg/est-quis-quae": "^1.0.0",
+    "@womorg/eum-nesciunt-quas": "^1.0.0",
+    "@womorg/exercitationem-atque-voluptatem": "^1.0.0",
+    "@womorg/fantastic-giggle": "^1.0.2",
+    "@womorg/ipsum-quos-similique": "^1.0.0",
+    "@womorg/iure-quasi-reprehenderit": "^1.0.0",
+    "@womorg/literate-octo": "^1.3.6",
+    "@womorg/necessitatibus-cupiditate-fugit": "^1.0.0",
+    "@womorg/occaecati-a-iusto": "^1.0.0",
+    "@womorg/optio-quia-vero": "^1.0.0",
+    "@womorg/psychic-potato": "^1.2.7",
+    "@womorg/quasi-eius-optio": "^1.0.0",
+    "@womorg/reiciendis-eum-voluptatum": "^1.0.0",
+    "@womorg/reimagined-enigma": "^1.0.9",
+    "@womorg/repudiandae-maiores-quis": "^1.0.0",
+    "@womorg/saepe-enim-dolor": "^1.0.0",
+    "@womorg/shiny-engine": "^1.0.9",
+    "@womorg/studiou": "^1.0.0",
+    "@womorg/studious-telegram": "^1.2.7",
+    "@womorg/ullam-perspiciatis-excepturi": "^1.0.0",
+    "@womorg/vitae-tenetur-pariatur": "^1.0.0",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "corcojs-qrcode-sample": "^1.0.1",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "keywords": [
+    "autoprefixer",
+    "task",
+    "trimRight",
+    "form",
+    "output",
+    "flatten",
+    "eslintconfig",
+    "Int16Array",
+    "rangeerror",
+    "tester",
+    "Microsoft",
+    "group",
+    "tc39",
+    "Int8Array",
+    "metadata",
+    "typed array",
+    "shebang",
+    "patch",
+    "AsyncIterator",
+    "util",
+    "callback",
+    "-0",
+    "ES6"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/womorg/perferendis-unde-impedit.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/womorg/perferendis-unde-impedit/#readme",
+  "bugs": {
+    "url": "https://github.com/womorg/perferendis-unde-impedit/issues"
   }
 }
